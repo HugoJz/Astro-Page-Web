@@ -1,4 +1,5 @@
-# Migración de página web a Astro.
+<h1 align="center"> Migración de página web usando Astro</h1>
+
 
 ## Objetivo
 Se hizo la implementación de Astro para hacer una "Landing-Page"

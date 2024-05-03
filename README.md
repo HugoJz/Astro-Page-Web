@@ -1,9 +1,9 @@
 # Migración de página web a Astro.
 
-# Se hizo la implementación de Astro para hacer una "Landing-Page"
+## Se hizo la implementación de Astro para hacer una "Landing-Page"
  URL : https://astro-page-web.vercel.app/
 
-## Evidencia:
+### Evidencia:
 
 ![Inicio](https://github.com/HugoJz/Astro-Page-Web/assets/84484618/509382ce-e755-4d91-9875-4175413f666d)
 
